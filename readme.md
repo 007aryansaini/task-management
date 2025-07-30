@@ -32,4 +32,4 @@ npm run dev
 
 ### Demo
 
-[![Task Management Demo](https://img.youtube.com/vi/dcC4qJIKlko/0.jpg)](https://www.youtube.com/watch?v=oM2eq2NN37s)
+[![Task Management Demo]](https://www.youtube.com/watch?v=oM2eq2NN37s)
